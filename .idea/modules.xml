@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Zipkin.iml" filepath="$PROJECT_DIR$/Zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkin/slueth-zipkin-server-client.iml" filepath="$PROJECT_DIR$/zipkin/slueth-zipkin-server-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkin-client/zipkin-client.iml" filepath="$PROJECT_DIR$/zipkin-client/zipkin-client.iml" />
+    </modules>
+  </component>
+</project>
